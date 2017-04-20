@@ -1,13 +1,13 @@
 body {
 	background:#2d2f2f;
 	font-size:30px;
-	line-height: 1.4em;
+	line-height: 1.0em;
 	color:#d9dede;
 	font-family: Century Gothic;
 	}
 
 	h1 { font-size:50px;
-		line-height: 1.0 em;
+		line-height: 1.0em;
 		}
 
 	p, h2 { font-size: 17px;
@@ -19,8 +19,13 @@ body {
 		
 	ul, h2 {margin-top: 20px; 
 		margin-bottom:20px;
-		font-size: 17px
+		font-size: 17px;
 		}
+
+		h2 {
+		font-size: 20px;
+		}
+
 	ol { margin-bottom:20px;
 		font-size: 13px;
 		}
