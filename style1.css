@@ -5,7 +5,12 @@ body {
 	color:#d9dede;
 	font-family: Eurostile;	
 	}
-
+	
+@font-face {  
+  font-family: "Eurostile";  
+  src: url(fonts/EurostileLTStd.eot); /* IE */  
+  src: local("Eurostile"), url(fonts/EurostileLTStd.otf) format("opentype"); /* non-IE */  
+} 
 	h1 { font-size:30px;
 		line-height: 1.0em;
 		}
